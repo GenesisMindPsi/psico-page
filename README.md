@@ -54,3 +54,32 @@ El objetivo es practicar, aprender y mostrar un portafolio digital con buenas pr
 
 ## 📂 Estructura del Repositorio
 
+/proyecto-web
+│── index.html
+│── css/
+│   └── style.css
+│── js/
+│   └── app.js
+│── assets/
+│   ├── img/
+│   └── fonts/
+└── README.md
+
+
+## 💡 Recomendaciones
+- Mantener un diseño **minimalista y claro** para destacar el contenido.
+- Usar **semántica HTML** (header, main, section, footer) para mejorar SEO.
+- Implementar **Dark Mode** como funcionalidad opcional.
+- Documentar cada fase en el README para mostrar el progreso.
+- Considerar frameworks futuros como **React** o **Vue** si deseas escalar el proyecto.
+
+---
+
+## 🚀 Próximos Pasos
+1. Definir el contenido principal de la página (portafolio, blog, landing personal).
+2. Crear un primer prototipo en HTML y CSS.
+3. Iterar con mejoras de diseño y funcionalidad.
+4. Publicar y compartir el proyecto.
+
+---
+
