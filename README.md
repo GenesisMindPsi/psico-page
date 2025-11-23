@@ -54,16 +54,16 @@ El objetivo es practicar, aprender y mostrar un portafolio digital con buenas pr
 
 ## 📂 Estructura del Repositorio
 
-/proyecto-web
-│── index.html
-│── css/
-│   └── style.css
-│── js/
-│   └── app.js
-│── assets/
-│   ├── img/
-│   └── fonts/
-└── README.md
+- **/proyecto-web**
+  - `index.html`
+  - **css/**
+    - `style.css`
+  - **js/**
+    - `app.js`
+  - **assets/**
+    - **img/**
+    - **fonts/**
+  - `README.md`
 
 
 ## 💡 Recomendaciones
